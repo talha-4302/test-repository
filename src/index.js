@@ -1,2 +1,2 @@
 console.log("INDEX");
-console.log("NEW LINE");
+console.log("NEW LINE- version2");
